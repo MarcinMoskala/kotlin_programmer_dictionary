@@ -1,4 +1,0 @@
-{class: part}
-# Część 1: To co najważniejsze w JavaScript
-
-Wreszcie ją masz! To jest ta książka, z którą nauczysz się podstaw programowania i zaczniesz swoją wspaniałą przygodę. Zapewne jesteś podekscytowany... Zacznijmy więc jak najszybciej, a wstęp znajdziesz na stronie xxx.
